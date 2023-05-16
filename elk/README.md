@@ -1,0 +1,2 @@
+## 介绍
+ELK是Elasticsearch、Logstash和Kibana的组合，是一套用于日志收集、存储和可视化的解决方案。Elasticsearch用于存储和索引日志数据，Logstash用于收集、处理和转发日志数据，Kibana用于实时监控和可视化日志数据。
